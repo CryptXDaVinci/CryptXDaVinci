@@ -63,7 +63,7 @@ export function Hero() {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-5xl font-bold mb-4"
         >
-          Raol Mukarrozi 
+          CryptX Da Vinci 
         </motion.h1>
         
         <div className="text-3xl font-semibold mb-4 h-12 flex items-center justify-center">
@@ -76,7 +76,7 @@ export function Hero() {
           transition={{ duration: 0.5, delay: 0.4 }}
           className="text-2xl"
         >
-          Welcome to My personal website. <WavingHand />
+          Welcome to My Portofolio. <WavingHand />
         </motion.p>
       </div>
     </section>
