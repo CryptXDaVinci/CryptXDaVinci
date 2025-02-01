@@ -38,7 +38,7 @@ export function Navbar() {
                 ))}
               </div>
               <Link
-                href="https://github.com/RaolM"
+                href="https://github.com/CryptXDaVinci"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white"
