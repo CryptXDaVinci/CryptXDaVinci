@@ -7,7 +7,7 @@ import BackgroundMusic from '@/components/background-music'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Raol Mukarrozi - Personal Portfolio',
+  title: 'CryptX - Personal Portfolio',
   description: 'Tech Enthusiast skilled in HTML, CSS, JavaScript, Tailwind, Node.js, and Laravel',
   icons: [
     {
